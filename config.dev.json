@@ -20,10 +20,10 @@
 	},
 	"adminBot": [
 		"61585694014120",
-		"61579252710551"
+		"61587455871434"
 	],
 	"nisanBot": [
-		"61586809744211"
+		"61588455194733"
 	],
 	"notes": "YOUR GROUP ID or Tid ID SET NOW , BECAUSE BOT LOGS MESSAGE SENT YOUR GROUP",
 	"whiteListMode": {
@@ -36,7 +36,7 @@
 	"whiteListModeThread": {
 		"enable": false,
 		"whiteListThreadIds": [
-			""
+			"2016998012247203"
 		],
 		"notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot",
 		"how_it_work": "if you enable both whiteListMode and whiteListModeThread, the system will check if the user is in whiteListIds, then check if the thread is in whiteListThreadIds, if one of the conditions is true, the user can use the bot"
